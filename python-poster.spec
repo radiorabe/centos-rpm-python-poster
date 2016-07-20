@@ -9,6 +9,7 @@ URL:            https://pypi.python.org/pypi/poster
 Source0:        https://pypi.python.org/packages/9f/dc/0683a458d21c3d561ab2f71b4fcdd812bf04e55c54e560b0854cea95610e/%{srcname}-%{version}.tar.gz
 
 BuildRequires:  python
+BuildRequires:  python-setuptools
 
 BuildArch:      noarch
 
